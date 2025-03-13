@@ -1,0 +1,9 @@
+{
+	"resource_pack_name": "Dynamic Quest",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"lemon:quest_books": {
+			"textures": "textures/items/quest_books"
+		}
+	}
+}

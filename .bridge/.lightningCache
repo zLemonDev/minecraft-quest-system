@@ -1,0 +1,46 @@
+$formatVersion: 1
+#manifest
+projects/Dynamic Quest/BP/manifest.json|1741888993412
+#unknown
+projects/Dynamic Quest/BP/pack_icon.png|1741888109
+projects/Dynamic Quest/BP/textures/item_texture.json|1741888109
+projects/Dynamic Quest/BP/textures/items/quest_books.png|1741888109
+projects/Dynamic Quest/RP/pack_icon.png|1741888109
+#functionTick
+projects/Dynamic Quest/BP/functions/tick.json|1741888109
+#gameTest
+projects/Dynamic Quest/BP/scripts/main.ts|1741891581
+projects/Dynamic Quest/BP/scripts/main.js|1741888979823
+#lang
+projects/Dynamic Quest/BP/texts/en_US.lang|1741888109
+#langDef
+projects/Dynamic Quest/BP/texts/languages.json|1741888109
+projects/Dynamic Quest/RP/texts/languages.json|1741888109
+#lootTable
+projects/Dynamic Quest/BP/loot_tables/empty.json|1741888109
+#item
+projects/Dynamic Quest/BP/items/quest_books.item.json|1741888109|{"identifier":["lemon:quest_books"],"itemTexture":["lemon:quest_books"],"tag":[]}
+#entity
+projects/Dynamic Quest/BP/entities/player.json|1741888109|{"identifier":["minecraft:player"],"event":["minecraft:gain_raid_omen","minecraft:clear_add_raid_omen","minecraft:trigger_raid","minecraft:remove_raid_trigger"],"eventReference":["minecraft:gain_raid_omen","minecraft:remove_raid_trigger","minecraft:clear_add_raid_omen"],"componentGroup":["minecraft:add_raid_omen","minecraft:clear_raid_omen_spell_effect","minecraft:raid_trigger"],"family":["player"],"lootTablePath":["projects/Dynamic Quest/BP/loot_tables/empty.json"]}
+#splashes
+projects/Dynamic Quest/RP/splashes.json|1741888109
+#clientSound
+projects/Dynamic Quest/RP/sounds.json|1741888109
+#biomesClient
+projects/Dynamic Quest/RP/biomes_client.json|1741888109
+#clientBlock
+projects/Dynamic Quest/RP/blocks.json|1741888109|{"identifier":[]}
+#clientManifest
+projects/Dynamic Quest/RP/manifest.json|1741888109|{"uuid":["5dcdff40-61aa-428b-94d8-b0a8334f1688"]}
+#soundDefinition
+projects/Dynamic Quest/RP/sounds/sound_definitions.json|1741888109|{"identifier":[]}
+#clientLang
+projects/Dynamic Quest/RP/texts/en_US.lang|1741888109|{"actionText":[]}
+#flipbookTexture
+projects/Dynamic Quest/RP/textures/flipbook_textures.json|1741888109
+#texture
+projects/Dynamic Quest/RP/textures/items/quest_books.png|1741888109
+#terrainTexture
+projects/Dynamic Quest/RP/textures/terrain_texture.json|1741888109|{"texture":[]}
+#itemTexture
+projects/Dynamic Quest/RP/textures/item_texture.json|1741888109|{"texture":["lemon:quest_books"],"texturePath":["projects/Dynamic Quest/RP/textures/items/quest_books.png"]}

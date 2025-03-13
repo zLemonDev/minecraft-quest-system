@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"LemoNisGamer"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.43"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			0
+		],
+		"uuid": "5dcdff40-61aa-428b-94d8-b0a8334f1688",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "7c8f7546-f957-4fae-a9a1-186dcecf2f94",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "a4199d34-5aba-4816-8bf6-30ddf5afde21",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

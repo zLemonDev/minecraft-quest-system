@@ -1,0 +1,38 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Dynamic Quest",
+	"namespace": "bridge",
+	"authors": [
+		"LemoNisGamer"
+	],
+	"targetVersion": "1.21.70",
+	"description": "pack.description",
+	"experimentalGameplay": {},
+	"bdsProject": false,
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "Dynamic Quest"
+				}
+			]
+		]
+	}
+}
