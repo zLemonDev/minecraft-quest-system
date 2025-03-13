@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Minecraft Bedrock Quest System
 
 ## Overview
@@ -29,3 +30,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Last Updated
 2025-03-13 18:47:14 UTC
+=======
+# minecraft-quest-system
+Quest System for Minecraft Bedrock Edition using Script API
+>>>>>>> 4acb79cdc11280a0fb5203c30dc07b4972b9a7c2
