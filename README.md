@@ -1,27 +1,25 @@
-# Minecraft Bedrock Quest System
-
 ## Overview
-A quest system for Minecraft Bedrock Edition using the Script API.
+ระบบภารกิจสำหรับ Minecraft Bedrock Edition ที่ใช้ Script API
 
-## Features
-- Multiple quest types (Mining, Killing, Farming)
-- Quest reward system
-- Progress tracking
-- Auto-saving quest progress
-- Quest book interface
+## ฟีเจอร์พิเศษ
+- ประเภทภารกิจหลากหลาย (การขุด การฆ่า การทำฟาร์ม)
+- ระบบรางวัลภารกิจ
+- การติดตามความคืบหน้า
+- บันทึกความคืบหน้าภารกิจโดยอัตโนมัติ
+- อินเทอร์เฟซหนังสือภารกิจ
 
-## Installation
-1. Download the behavior pack
-2. Import it to your Minecraft world
-3. Enable GameTest Framework in world settings
-4. Start playing!
+## การติดตั้ง Addon
+1. ดาวน์โหลดแพ็ค Addon
+2. นำเข้าสู่โลก Minecraft ของคุณ
+3. เปิดใช้งาน Beta APIs (Experiments) ในการตั้งค่าโลก
+4. เริ่มเล่นได้เลย!
 
-## Usage
-- Use the quest book to view current quests
-- Complete quests to earn rewards
-- New quests are automatically assigned
+## วิธีการใช้งาน
+- ใช้หนังสือภารกิจเพื่อดูภารกิจปัจจุบัน
+- ทำภารกิจให้สำเร็จเพื่อรับรางวัล
+- ภารกิจใหม่จะได้รับมอบหมายโดยอัตโนมัติ
 
-## Author
+## ผู้สร้าง Addon
 - **zLemonDev** - [GitHub Profile](https://github.com/zLemonDev)
 
 ## License
